@@ -1,19 +1,15 @@
 {
-  "name": "lec-2",
+  "name": "npm-3_lec-3",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "commonjs",
   "scripts": {
-    "prestart": "echo Hello",
-    "poststart": "echo Hey!",
-    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Darshan_Kale",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.2.5"
+    "@darshan_kale/creating": "^0.0.2"
   }
 }
